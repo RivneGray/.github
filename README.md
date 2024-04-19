@@ -7,8 +7,8 @@
 ## Team members:
 - [Gleb Ivashyn](https://github.com/GlobeDaBoarder)
 - [Ekaterina Bulycheva](https://github.com/KatlinBulycheva)
-- [Alexander Malekin](https://github.com/sssBless)
-- [Michael Krasnov](https://github.com/malkin-and-tochka)
+- [Alexander Malekin](https://github.com/malkin-and-tochka)
+- [Michael Krasnov](https://github.com/sssBless)
 
 ### Other links
 - DockerHub repositories:
